@@ -1,0 +1,33 @@
+* {
+	min-height: 10px;
+}
+
+.post {
+  background: white;
+  width: 450px;
+  margin: auto;   
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box-header {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.box-header p{
+    width: 100%;
+	  padding-left: 10px;
+    margin: 0;
+  }
+img{
+  width: 100%;
+}
+
+/* footer */
+.icons{
+  display: flex;
+  margin-top: 10px;
+}
+.icons .icon-3{
+  width: 100%;
+}
